@@ -28,6 +28,7 @@ The AI text humanizer ecosystem is growing fast. This list brings together the b
 
 | Tool | Language | Description |
 |------|----------|-------------|
+| [**Humanize-Text (Lynote)**](https://github.com/lynote-ai/humanize-text) | Python | MIT-licensed toolkit with four reference methods and a multi-engine rewriting pipeline. |
 | [**StealthHumanizer**](https://github.com/rudra496/StealthHumanizer) | TypeScript | Free, open-source AI humanizer with 35+ providers, 16+ languages, multi-pass ninja mode. No login required. |
 | [**TextHomer**](https://github.com/Yuyz/TextHomer) | Python | Open-source text rewriting tool with paraphrasing and tone adjustment. |
 | [**humanize-text**](https://github.com/Pruthvi-Switch/humanize-text) | Python | Lightweight CLI tool to humanize AI-generated text using local models. |
