@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/rudra496/awesome-ai-humanizers?style=flat-square)](https://github.com/rudra496/awesome-ai-humanizers)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat-square)](https://github.com/rudra496/awesome-ai-humanizers/blob/main/CONTRIBUTING.md)
 [![Last Updated](https://img.shields.io/github/last-commit/rudra496/awesome-ai-humanizers?style=flat-square)](https://github.com/rudra496/awesome-ai-humanizers)
 
 > A curated list of AI text humanizer tools, AI detection tools, and resources to make AI-generated text sound naturally human.
@@ -28,11 +28,12 @@ The AI text humanizer ecosystem is growing fast. This list brings together the b
 
 | Tool | Language | Description |
 |------|----------|-------------|
+| [**Humanize-Text (Lynote)**](https://github.com/lynote-ai/humanize-text) | Python | MIT-licensed toolkit with four reference methods and a multi-engine rewriting pipeline. |
 | [**StealthHumanizer**](https://github.com/rudra496/StealthHumanizer) | TypeScript | Free, open-source AI humanizer with 35+ providers, 16+ languages, multi-pass ninja mode. No login required. |
 | [**TextHomer**](https://github.com/Yuyz/TextHomer) | Python | Open-source text rewriting tool with paraphrasing and tone adjustment. |
 | [**humanize-text**](https://github.com/Pruthvi-Switch/humanize-text) | Python | Lightweight CLI tool to humanize AI-generated text using local models. |
 
-> 💡 Have an open-source humanizer? [Add it here](CONTRIBUTING.md)!
+> 💡 Have an open-source humanizer? [Add it here](https://github.com/rudra496/awesome-ai-humanizers/blob/main/CONTRIBUTING.md)!
 
 ## 💰 Commercial Humanizers
 
@@ -116,7 +117,7 @@ AI text humanizers are powerful tools that should be used responsibly:
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please read the [Contributing Guidelines](CONTRIBUTING.md) before submitting a pull request.
+Contributions are welcome! Please read the [Contributing Guidelines](https://github.com/rudra496/awesome-ai-humanizers/blob/main/CONTRIBUTING.md) before submitting a pull request.
 
 ### How to Contribute
 1. Fork the repository
@@ -140,6 +141,6 @@ Contributions are welcome! Please read the [Contributing Guidelines](CONTRIBUTIN
 
 ---
 
-**License:** [CC BY 4.0](LICENSE) — Free to share and adapt with attribution.
+**License:** [CC BY 4.0](https://github.com/rudra496/awesome-ai-humanizers/blob/main/LICENSE) — Free to share and adapt with attribution.
 
 **Maintained by:** [Rudra Sarker](https://github.com/rudra496) · [Twitter](https://twitter.com/Rudra496)
